@@ -116,18 +116,18 @@ body {
     height: 44px;
 } .ds4 .face.up {
     left: 45px;
-    top: 0;
+    top: -97px;
     background-position: 0px 0;
 } .ds4 .face.down {
     left: 45px;
-    bottom: -7px;
+    bottom: 89px;
     background-position: -44px 0;
 } .ds4 .face.left {
-	top: 45px;
+	top: -50px;
     left: 0;
     background-position: -88px 0;
 } .ds4 .face.right {
-    top: 44px;
+    top: -52px;
     right: -7px;
     background-position: -144px 0;
 } .ds4 .face.pressed {
