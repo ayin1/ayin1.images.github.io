@@ -79,18 +79,6 @@ body {
     top: 99px;
 } .ds4 .face {
     background: none;
-} .ds4 .bumpers {
-    width: 620px;
-    height: 36px;
-    left: 90px;
-    top: 98px;
-} .ds4 .bumper {
-    background: url(https://ayin1.github.io/ds5/wijYAzG.png);
-    width: 114px;
-    height: 36px;
-    opacity: 0;
-} .ds4 .bumper.right {
-    margin-right: 6px;
 } .ds4 .touchpad {
     width: 320px;
     height: 167px;
