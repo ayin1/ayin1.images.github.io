@@ -20,8 +20,11 @@ body {
     height: 95px;
 } .ds4 .stick.pressed.left, .ds4 .stick.pressed.right {
     background-position: -95px 0;
+} .ds4 .stick.left {
+    top: -97px;
+    left: 0px;
 } .ds4 .stick.right {
-    top: 0;
+    top: -97px;
     left: 255px;
 } .ds4 .abxy {
     width: 181px;
@@ -38,22 +41,22 @@ body {
 } .ds4 .a {
     background-position: 0 0;
     left: 59px;
-    top: 116px;
+    top: 19px;
 } .ds4 .b {
     background-position: -54px 0;
     left: 118px;
-    top: 59px;
+    top: -38px;
 } .ds4 .x {
     background-position: -108px 0;
     left: 0px;
-    top: 58px;
+    top: -39px;
 } .ds4 .y {
     background-position: -162px 0;
     left: 59px;
-    top: 0px;
+    top: -97px;
 } .ds4 .arrows {
     left: 195px;
-	top: 140px;
+	top: 43px;
     width: 416px;
     height: 57px;
 } .ds4 .quadrant { 
@@ -73,7 +76,7 @@ body {
 	width: 144px;
     height: 144px;
     left: 71px;
-    top: 196px;
+    top: 99px;
 } .ds4 .face {
     background: none;
 } .ds4 .bumpers {
