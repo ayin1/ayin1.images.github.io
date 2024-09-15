@@ -90,12 +90,9 @@ body {
     height: 36px;
     opacity: 0;
 } .ds4 .bumper.right {
-    margin-right: 6px;} .ds4 .touchpad {
-    width: 320px;
-    height: 167px;
-    position: absolute;
-    left: 237px;
-    top: -97px;
+    position: relative;
+    top: -98px;
+    margin-right: 6px;
 } .ds4 .dpad {
     position: absolute;
     width: 125px;
