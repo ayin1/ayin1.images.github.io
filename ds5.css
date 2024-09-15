@@ -89,6 +89,8 @@ body {
     width: 114px;
     height: 36px;
     opacity: 0;
+	position: relative;
+	top: 98px;
 } .ds4 .bumper.right {
     position: relative;
     top: -98px;
