@@ -129,6 +129,7 @@ body {
 } .ds4 .face.pressed {
     background-position-y: 58px;
 } .ds4 .touchpad {
+    background: url(https://ayin1.github.io/ds5/Gnd106J.png);
     width: 262px;
     height: 151px;
     position: absolute;
