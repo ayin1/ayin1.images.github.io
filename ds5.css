@@ -128,4 +128,16 @@ body {
     background-position: -144px 0;
 } .ds4 .face.pressed {
     background-position-y: 58px;
+} .ds4 .touchpad {
+    width: 262px;
+    height: 151px;
+    position: absolute;
+    left: 272px;
+    top: 5px;
+} .ds4 .trigger.left {
+    float: left;
+    visibility: hidden;
+} .ds4 .trigger.right {
+    float: left;
+    visibility: hidden;
 }
